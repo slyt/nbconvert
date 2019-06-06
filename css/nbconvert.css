@@ -256,8 +256,8 @@ div.notebook div.nbconvert div.rendered_html p a {
   color: #4D00FF;
 }
 
-div.notebook div.nbconvert ul,
-div.notebook div.nbconvert ol, 
+div.notebook div.nbconvert div.rendered_html ul,
+div.notebook div.nbconvert div.rendered_html ol, 
 {
   margin-left: 15px;
 }
