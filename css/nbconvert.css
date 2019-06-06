@@ -5,7 +5,7 @@
 div.notebook {
     position: relative;
     font-size: 1em;
-    border: 3px dashed;
+    border: 1px outset;
     padding: 10px;
     margin-bottom:15px
 }
@@ -255,4 +255,12 @@ div.notebook div.nbconvert div.rendered_html h4 {
 div.notebook div.nbconvert div.rendered_html p a {
   color: #4D00FF;
 }
+
+div.notebook div.nbconvert ul,
+div.notebook div.nbconvert ol, 
+{
+  margin-left: 15px;
+}
+
+
 /************** Jupyter Notebook CSS ************************/
