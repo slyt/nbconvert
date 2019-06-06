@@ -92,7 +92,7 @@ function nbconvert_function($atts) {
   $converted_nb = '<div class="notebook">
     <div class="nbconvert-labels">
       <label class="github-link">
-        <a href="'.$url.'" target="_blank">Check it out on github</a>
+        <a href="'.$url.'" target="_blank"> Check it out on github</a>
         <label class="github-last-update"> Last updated: '.$last_update_date_time.'</label>
       </label>
       </div>
